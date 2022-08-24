@@ -684,11 +684,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\amin\\source\\repos\\DapperExam\\DapperExam\\DapperExam.csproj",
+      "projectUniqueName": "C:\\Users\\amin\\source\\repos\\DapperExam\\DapperExam\\DapperExam\\DapperExam.csproj",
       "projectName": "DapperExam",
-      "projectPath": "C:\\Users\\amin\\source\\repos\\DapperExam\\DapperExam\\DapperExam.csproj",
+      "projectPath": "C:\\Users\\amin\\source\\repos\\DapperExam\\DapperExam\\DapperExam\\DapperExam.csproj",
       "packagesPath": "C:\\Users\\amin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\amin\\source\\repos\\DapperExam\\DapperExam\\obj\\",
+      "outputPath": "C:\\Users\\amin\\source\\repos\\DapperExam\\DapperExam\\DapperExam\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\amin\\AppData\\Roaming\\NuGet\\NuGet.Config",
